@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+
+# Uploaded user data and database (not source code)
+data/uploads/
+data/dataguard.db
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
